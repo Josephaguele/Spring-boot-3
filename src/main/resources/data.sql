@@ -1,0 +1,2 @@
+---INSERT INTO Run(id, title, started_on, completed_on, miles, location)
+---VALUES (15, 'Hull Run', '2024-06-14T13:55:26.227773', '2024-06-14T14:55:26.227773', 12, 'OUTDOOR');

@@ -13,8 +13,6 @@ public class Application {
 
 		var welcomeMessage = new WelcomeMessage();
 		System.out.println(welcomeMessage.getWelcomeMessage());
-
-
 	}
 
 	public static class WelcomeMessage {
